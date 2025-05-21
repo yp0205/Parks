@@ -10,7 +10,7 @@ API_KEY = "7c8b7606ae705ee5aeb125202d26e65c"
 CITY_NAME = "Seoul"
 WEATHER_URL = f"http://api.openweathermap.org/data/2.5/weather?q={CITY_NAME}&appid={API_KEY}&units=metric&lang=kr"
 
-CLOSET_DIR = r"D:\TANCIS-IDE\workspace\test\my_closet"
+CLOSET_DIR = r"C:\Parks\my_closet"
 IMAGE_WIDTH = 150
 
 # 기본 카테고리
